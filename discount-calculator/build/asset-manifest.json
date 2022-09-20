@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/solid-octo-system/static/css/main.e9ba6729.css",
+    "main.js": "/solid-octo-system/static/js/main.b4c3eeee.js",
+    "static/js/787.587237fd.chunk.js": "/solid-octo-system/static/js/787.587237fd.chunk.js",
+    "index.html": "/solid-octo-system/index.html",
+    "main.e9ba6729.css.map": "/solid-octo-system/static/css/main.e9ba6729.css.map",
+    "main.b4c3eeee.js.map": "/solid-octo-system/static/js/main.b4c3eeee.js.map",
+    "787.587237fd.chunk.js.map": "/solid-octo-system/static/js/787.587237fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9ba6729.css",
+    "static/js/main.b4c3eeee.js"
+  ]
+}
